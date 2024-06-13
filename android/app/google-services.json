@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233978887224",
+    "project_id": "ddffd-6da33",
+    "storage_bucket": "ddffd-6da33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233978887224:android:4d9757b379bb83f9f6facd",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0wj1Q-lNBLXLY4XpfGOYU2JoUsSRGb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233978887224:android:bf6b24c0e4717a15f6facd",
+        "android_client_info": {
+          "package_name": "com.example.beauty_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0wj1Q-lNBLXLY4XpfGOYU2JoUsSRGb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
